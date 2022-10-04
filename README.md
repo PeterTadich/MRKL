@@ -88,4 +88,3 @@ Need a multidimensional print statement
 ## License
 
 [MIT](LICENSE)
-Including: Only to be used to help humanity move forward in a positive manner.
