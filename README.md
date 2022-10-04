@@ -77,11 +77,13 @@ ddthetalist =
 
 ## To do
 
+```bash
 MatrixLog3() needs more test cases
 DistanceToSE3 - read about this
 Move det() to mtojs.js
 Move norm(T,'fro') to mtojs.js (see DistanceToSE3.js, DistanceToSO3.js)
 Need a multidimensional print statement
+```
 
 ## License
 
